@@ -4,21 +4,21 @@
 
 ### TEMPLATES
 
-\\axinnasapp.central.inditex.grp\EccStgSTD\static2\homes\2016\_template\template
+\axinnasapp.central.inditex.grp\EccStgSTD\static2\homes\2016\_template\template
 
 ### ESTILOS
 
-\\axinnasapp.central.inditex.grp\EccStgSTD\static2\homes\2016\_template\css
+\axinnasapp.central.inditex.grp\EccStgSTD\static2\homes\2016\_template\css
 
 ### JAVASCRIPTS
 
-\\axinnasapp.central.inditex.grp\EccStgSTD\static2\homes\2016\_template\js
+\axinnasapp.central.inditex.grp\EccStgSTD\static2\homes\2016\_template\js
 
 ### DICCIONARIOS
 
-\\axinnasapp.central.inditex.grp\EccStgSTD\static2\homes\2016\_template\data
+\axinnasapp.central.inditex.grp\EccStgSTD\static2\homes\2016\_template\data
 
 ### JSONS HOMES
 
-\\axinnasapp.central.inditex.grp\EccStgSTD\static2\homes\
+\axinnasapp.central.inditex.grp\EccStgSTD\static2\homes\ hola
 
